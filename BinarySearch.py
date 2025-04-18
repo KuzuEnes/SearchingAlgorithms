@@ -28,3 +28,9 @@ if sonuc != -1:
     print(f"{hedef} dizide {sonuc}. indexte bulundu (Binary Search).")
 else:
     print(f"{hedef} dizide bulunamadı (Binary Search).")
+
+#Time Complexity: O(log N)
+#Space Complexity : O(1)
+
+#İkili arama, sıralı bir dizide hedef öğeyi bulmak için kullanılır. Dizi öğeleri sıralı olmalıdır (örneğin, küçükten büyüğe sıralanmış). Algoritma, diziyi her adımda yarıya böler ve hedef öğeyi buluncaya kadar devam eder.
+#Binary arama, büyük dizilerde hızlı ve etkili bir arama sağlar ancak dizinin sıralı olması ve karşılaştırılabilir olması gerekir; makine öğrenmesi, bilgisayar grafikleri ve veritabanı aramaları gibi çeşitli uygulama alanlarında kullanılabilir.
