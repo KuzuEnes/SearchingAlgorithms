@@ -40,3 +40,4 @@ print(f"{kisi} için numara: {hashing_search(veritabani, kisi)}")
 
 #Hashing, bir anahtar-değer eşleme yapısıdır ve hızlı arama sağlar. Ancak, bu yöntem uygun bir hash fonksiyonunun seçilmesini ve çakışmaların ele alınmasını gerektirir.
 #Hash tablosu, hızlı arama ve eşleşme sağladığı için büyük veri kümeleri üzerinde performansı artırmak ve anahtar-değer çiftlerini yönetmek için tercih edilir.
+#
